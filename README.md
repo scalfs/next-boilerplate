@@ -4,6 +4,11 @@
 
 This is a [Next.js](https://nextjs.org/) boilerplate to be developed in a course called [Advanced React](https://reactavancado.com.br/).
 
+To start a project using this template, simply run:
+```bash
+$ yarn create next-app -e https://github.com/scalfs/next-boilerplate
+```
+
 ## What is inside?
 
 This project uses lot of stuff as:
@@ -23,9 +28,9 @@ This project uses lot of stuff as:
 First, run the development server:
 
 ```bash
-npm run dev
+$ npm run dev
 # or
-yarn dev
+$ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
