@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Advanced React Icon" src="./public/img/icon-512.png">
+  <img alt="Advanced React Icon" src="./public/img/icon-192.png">
 </p>
 
 This is a [Next.js](https://nextjs.org/) boilerplate to be developed in a course called [Advanced React](https://reactavancado.com.br/).
