@@ -2,11 +2,11 @@
   <img alt="Advanced React Icon" src="./public/img/icon-192.png">
 </p>
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be developed in a course called [Advanced React](https://reactavancado.com.br/).
+This is a [Next.js](https://nextjs.org/) starter to be developed in a course called [Advanced React](https://reactavancado.com.br/).
 
 To start a project using this template, simply run:
 ```bash
-$ yarn create next-app -e https://github.com/scalfs/next-boilerplate
+$ yarn create next-app -e https://github.com/scalfs/next-starter
 ```
 
 ## What is inside?
